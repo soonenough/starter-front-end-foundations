@@ -34,11 +34,6 @@ h3 {
   margin: 10px;
 }
 
-.item {
-  flex: 1;
-  margin: 10px;
-}
-
 .item-double {
   flex: 2;
 }
